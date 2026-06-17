@@ -1,0 +1,61 @@
+{
+  "organization": {
+    "name": "NayePankh Foundation",
+    "mission": "Empower underserved communities through education, awareness, volunteer action, and social impact programs.",
+    "vision": "A society where every child and family can access opportunity, dignity, and support."
+  },
+  "programs": [
+    {
+      "title": "Education Support",
+      "keywords": ["education", "study", "school", "children"],
+      "answer": "We run educational initiatives, tutoring support, and school supply drives."
+    },
+    {
+      "title": "Awareness Campaigns",
+      "keywords": ["campaign", "awareness", "social media", "outreach"],
+      "answer": "We create awareness campaigns for health, education, environment, and community well-being."
+    },
+    {
+      "title": "Volunteer Activities",
+      "keywords": ["volunteer", "help", "skills", "support"],
+      "answer": "Volunteers support field work, content, outreach, planning, and community engagement."
+    },
+    {
+      "title": "Donation Support",
+      "keywords": ["donate", "fund", "contribute", "money"],
+      "answer": "Donations help us run programs, support campaigns, and expand our community impact."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How can I volunteer?",
+      "keywords": ["volunteer", "join"],
+      "a": "Share your skills, interests, and available hours in the Volunteer Recommender to get matched with a role."
+    },
+    {
+      "q": "How can I donate?",
+      "keywords": ["donate", "contribute"],
+      "a": "Use the donation appeal generator or contact the foundation through its official channels to support a cause."
+    },
+    {
+      "q": "What skills are required?",
+      "keywords": ["skills", "required"],
+      "a": "Communication, content writing, coordination, design, teaching, and outreach are especially useful."
+    },
+    {
+      "q": "What events are available?",
+      "keywords": ["events", "programs"],
+      "a": "Events can include donation drives, awareness programs, school activities, volunteer drives, and campaigns."
+    },
+    {
+      "q": "What is NayePankh Foundation?",
+      "keywords": ["what is", "about"],
+      "a": "NayePankh Foundation is an NGO focused on awareness, education, volunteer engagement, and social impact programs."
+    }
+  ],
+  "contact": {
+    "email": "contact@nayepankhfoundation.org",
+    "phone": "+91-00000-00000",
+    "location": "India"
+  }
+}
